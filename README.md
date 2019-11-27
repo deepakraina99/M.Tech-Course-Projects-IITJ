@@ -7,6 +7,6 @@ Course Projects during M.Tech @ IIT Jodhpur
 
 **3. Finite Element Methods:** MATLAB ocde for 2D/3D Truss analysis.
 
-**4. Robotics:** Visual servoing of 2-link planar robotic arm.
+**4. Robotics:** Visual servoing of 2-link planar robotic arm, Forward kinematics of universal robots
 
 **5. Vehicle Dynamics** Acceleration, Braking, Ride and Low-Speed Steering Dynamics calculation of Mahindra XUV500 vehicle and simulation in AdamsCar.
