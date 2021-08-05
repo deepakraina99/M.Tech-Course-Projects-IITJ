@@ -1,7 +1,7 @@
 
 # Adaptive Slicing Procedure for Layered Manufacturing
 For controlling the accuracy of the model and for reducing the staircase effect, Adaptive slicing needs to be performed. In this procedure, the user can specify a maximum allowable cusp height for the object. Then, the layer thicknesses are computed based on the surface geometry and the prescribed cusp height. The basic principle of adaptive slicing is to evaluate local surface geometries to determine the build layer thickness that can be used while maintaining a user-defined surface tolerance, usually measured by the cusp height
-For more info, please refer this [presentation](https://github.com/deepakraina99/ALS-GCodes-Generation_CAM/blob/master/src/Presentation_ALS.pdf)
+For more info, please refer this [presentation](https://github.com/deepakraina99/M.Tech-Course-Projects-IITJ/blob/master/Computer-Aided-Manufacturing-ME617/Adaptive-layer-Slicing-GCodes/src/Presentation_ALS.pdf)
 
 > This work has been done as part of Computer Aided Manufacturing (CAM)
 > course at IIT Jodhpur.
