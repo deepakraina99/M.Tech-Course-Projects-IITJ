@@ -2,7 +2,7 @@
 
 # Triangulation of Solid Models
 The objective of this work is to triangulate a flat shaped solid model of SOLIDWORKS using Delaunay Triangulation and then generate a *.STL* file.
-For more info, please refer this [presentation](https://github.com/deepakraina99/Triangulation-Solidworks-API_CAD/blob/master/src/Presentation.pdf)
+For more info, please refer this [presentation](https://github.com/deepakraina99/M.Tech-Course-Projects-IITJ/blob/master/Computer-Aided-Design-ME672/Triangulation-of-Soild-models-API/src/Presentation.pdf)
 
 > This work has been done as part of Computer Aided Design (CAM)
 > course at IIT Jodhpur.
